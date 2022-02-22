@@ -1,0 +1,2 @@
+# autodeletemysql
+WORKS ONLY WITH UBUNTU 18.04 - 20.04 and 21.04 COMING SOON
